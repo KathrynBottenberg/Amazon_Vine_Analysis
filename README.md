@@ -4,11 +4,11 @@ We will be analyzing a Amazon Review dataset. Some of the reviews will be coming
 
 In this analysis, we have chosen to access a dataset for product reviews categorized under "Kitchen". We will perform ETL (Extract, Transform, and Load) by connecting to an AWS RDS instance and loading it into a pgAdmin. We will also be using PySpark to determine if there is any bias towards reviews. Our summary will analize our results and determine if there is bias and provide an additional analysis.
 
-### Criteria for Reviews taken into consideration as a viable review
+#### Criteria for Reviews taken into consideration as a viable review
 - total_votes must be > 20 AND
 - helpful_votes is 50% or more of the total votes
 
-### Criteria for 5-Star Reviews
+#### Criteria for 5-Star Reviews
 - total_votes must be > 20 AND
 - helpful_votes is 50% or more of the total votes AND
 - star_rating is exactly 5
