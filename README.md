@@ -12,6 +12,7 @@ In this analysis, we have chosen to access a dataset for product reviews categor
 - total_votes must be > 20 AND
 - helpful_votes is 50% or more of the total votes AND
 - star_rating is exactly 5
+![image](photos/total_votes_20ormore.png)
 
 ## Results:
 #### Total Reviews
