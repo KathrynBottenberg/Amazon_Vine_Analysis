@@ -22,13 +22,13 @@ In this analysis, we have chosen to access a dataset for product reviews categor
 #### Total Reviews
 - How many Vine reviews and non-Vine reviews were there?
 There were a total of 99,046 reviews in the dataset for Kitchen products; 1,207 were paid Vine reviews and 97,839 were unpaid noon-Vine reviews.
-![image](photos/.png)
-![image](photos/.png)
-![image](photos/.png)
+![image](photos/total_reviews.png)
+![image](photos/total_paid.png)
+![image](photos/total_unpaid.png)
 #### 5-Star rating reviews
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 Of the 1,207 paid Vine reviews, 509 of them were 5-Star reviews. When looking at the unpaid (non-vine) reviews, 45,858 of the 99,046 were 5-Star ratings in the review.
-![image](photos/5_star_percentpaid_5star.png)
+![image](photos/paid_5star.png)
 ![image](photos/unpaid_5star.png)
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 Using the percentage formula of (the part)/(the whole), we can find the following percents: total percentage of 5-star reviews is 46.8%, percentage of 5-star Vine reviews out of total Vine reviews is 42.2%, and total 5-star non-Vine reviews out of total non-Vine reviews is 46.9%.
