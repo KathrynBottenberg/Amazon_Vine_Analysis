@@ -10,7 +10,7 @@ In this analysis, we have chosen to access a dataset for product reviews categor
 ![image](photos/percent_helpful_50ormore.png)
 - helpful_votes is 50% or more of the total votes AND
 ![image](photos/helpful_vine.png)
-![image](photos/helpful_nonvine.png)
+![image](photos/helpful_nonVine.png)
 - whether or not it was a Vine OR non-vine customer review
 
 #### Criteria for 5-Star Reviews
@@ -33,7 +33,7 @@ Of the 1,207 paid Vine reviews, 509 of them were 5-Star reviews. When looking at
 - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 Using the percentage formula of (the part)/(the whole), we can find the following percents: total percentage of 5-star reviews is 46.8%, percentage of 5-star Vine reviews out of total Vine reviews is 42.2%, and total 5-star non-Vine reviews out of total non-Vine reviews is 46.9%.
 ![image](photos/5_star_percent.png)
-![image](photos/paid_5_star_percent.png)
-![image](photos/unpaid_5_star_percent.png)
+![image](photos/paid_5star_percent.png)
+![image](photos/unpaid_5star_percent.png)
 ## Summary:
 When analyzing the results from the reviews written on kitchen products, it appears there is little difference in the percentage of 5-Star reviews from customers on the paid Vine app verse the updaid non-Vine customers since 42.2% (Vine) and 46.9% (non-Vine) are both close to the 46.8% (total) of customers who reviewed the products and gave 5-Star reviews. Additional tests should be run on products of each other value of stars (4-0 stars) to see if there are similar patterns of bias or unbias reviews between the Vine reviews and non-vine reviewers for each rating.
